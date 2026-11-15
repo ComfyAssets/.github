@@ -9,6 +9,7 @@ Custom nodes, tools and apps for [ComfyUI](https://github.com/comfyanonymous/Com
 
 <a href="https://github.com/ComfyAssets/ComfyUI_PromptManager"><img src="https://raw.githubusercontent.com/ComfyAssets/ComfyUI_PromptManager/main/assets/brand/banner.webp" alt="ComfyUI_PromptManager" width="49%"></a>
 <a href="https://github.com/ComfyAssets/ComfyUI-KikoTools"><img src="https://raw.githubusercontent.com/ComfyAssets/ComfyUI-KikoTools/main/docs/brand/banner.webp" alt="ComfyUI-KikoTools" width="49%"></a>
+<a href="https://github.com/ComfyAssets/comfyui-harness"><img src="https://raw.githubusercontent.com/ComfyAssets/comfyui-harness/main/docs/brand/banner.webp" alt="comfyui-harness" width="49%"></a>
 
 | Project | What it does | Stars |
 | --- | --- | ---: |
@@ -17,6 +18,7 @@ Custom nodes, tools and apps for [ComfyUI](https://github.com/comfyanonymous/Com
 | [**ComfyUI_Selectors**](https://github.com/ComfyAssets/ComfyUI_Selectors) | ComfyUI_Selectors provides custom nodes that centralize commonly shared parameters—such as scheduler, steps, config, and sampler—and allow you to link these settings to multiple nodes in your workflow. | 10 |
 | [**ComfyUI-KikoStats**](https://github.com/ComfyAssets/ComfyUI-KikoStats) | Helpful at a glance stats in ComfyUI | 9 |
 | [**kiko-downloader**](https://github.com/ComfyAssets/kiko-downloader) | A node for downloading models, loras, upscalers, you name it! | 4 |
+| [**comfyui-harness**](https://github.com/ComfyAssets/comfyui-harness) | A drop-down terminal in the ComfyUI page for your own Claude Code, with an optional bridge that lets it read and edit the open workflow. | 0 |
 
 ## Tools and apps
 
