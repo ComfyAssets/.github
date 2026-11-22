@@ -13,7 +13,7 @@ Custom nodes, tools and apps for [ComfyUI](https://github.com/comfyanonymous/Com
 
 | Project | What it does | Stars |
 | --- | --- | ---: |
-| [**ComfyUI_PromptManager**](https://github.com/ComfyAssets/ComfyUI_PromptManager) | Professional prompt management system for ComfyUI with advanced search, tagging, star ratings, and integrated image galleries. | 188 |
+| [**ComfyUI_PromptManager**](https://github.com/ComfyAssets/ComfyUI_PromptManager) | Professional prompt management system for ComfyUI with advanced search, tagging, star ratings, and integrated image galleries. | 189 |
 | [**ComfyUI-KikoTools**](https://github.com/ComfyAssets/ComfyUI-KikoTools) | Simple tools for ComfyUI | 22 |
 | [**ComfyUI_Selectors**](https://github.com/ComfyAssets/ComfyUI_Selectors) | ComfyUI_Selectors provides custom nodes that centralize commonly shared parameters—such as scheduler, steps, config, and sampler—and allow you to link these settings to multiple nodes in your workflow. | 10 |
 | [**ComfyUI-KikoStats**](https://github.com/ComfyAssets/ComfyUI-KikoStats) | Helpful at a glance stats in ComfyUI | 9 |
