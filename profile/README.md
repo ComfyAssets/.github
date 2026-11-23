@@ -24,7 +24,7 @@ Custom nodes, tools and apps for [ComfyUI](https://github.com/comfyanonymous/Com
 
 | Project | What it does | Stars |
 | --- | --- | ---: |
-| [**kiko-flux2-prompt-builder**](https://github.com/ComfyAssets/kiko-flux2-prompt-builder) | A lightweight JSON-style prompt builder for FLUX 2, with camera, lens, lighting, and style presets. | 68 |
+| [**kiko-flux2-prompt-builder**](https://github.com/ComfyAssets/kiko-flux2-prompt-builder) | A lightweight JSON-style prompt builder for FLUX 2, with camera, lens, lighting, and style presets. | 69 |
 | [**kiko-trainer**](https://github.com/ComfyAssets/kiko-trainer) | A fast, friendly desktop-style UI for training FLUX LoRAs locally. | 4 |
 | [**Kiko-Creator**](https://github.com/ComfyAssets/Kiko-Creator) | A simple react based stable diffusion inference UI, uses ComfyUI under the covers. | 3 |
 | [**ComfyAssets-Toolkit**](https://github.com/ComfyAssets/ComfyAssets-Toolkit) | Shared UI controls and test infrastructure for ComfyAssets custom nodes | 1 |
