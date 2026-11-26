@@ -28,6 +28,7 @@ Custom nodes, tools and apps for [ComfyUI](https://github.com/comfyanonymous/Com
 | [**kiko-trainer**](https://github.com/ComfyAssets/kiko-trainer) | A fast, friendly desktop-style UI for training FLUX LoRAs locally. | 4 |
 | [**Kiko-Creator**](https://github.com/ComfyAssets/Kiko-Creator) | A simple react based stable diffusion inference UI, uses ComfyUI under the covers. | 3 |
 | [**ComfyAssets-Toolkit**](https://github.com/ComfyAssets/ComfyAssets-Toolkit) | Shared UI controls and test infrastructure for ComfyAssets custom nodes | 1 |
+| [**ComfyUI-KikoCharSheet**](https://github.com/ComfyAssets/ComfyUI-KikoCharSheet) | ComfyUI nodes for MiniMax H3: pick a portrait, a costume and poses from in-node galleries, with English names and your own uploads. | 0 |
 
 <!-- repos:end -->
 
